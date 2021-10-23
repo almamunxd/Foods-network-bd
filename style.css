@@ -1,0 +1,162 @@
+body{
+    
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    
+}
+#header{
+    display: flex;
+    padding-bottom: 40px;
+}
+.header-part{
+    width: 50%;
+    padding-left: 7%;
+    padding-top: 10%;
+}
+.text-skip{
+    color: coral;
+    font-size: 60px;
+}
+.text-the{
+    color: rgb(78, 76, 76);
+    font-size: 60px;
+}
+.linked{
+    
+padding: 15px 35px;
+background-image: linear-gradient(to right, orange,rgb(187, 64, 64));
+text-decoration: none;
+border-radius: 25px;
+color: white;
+}
+.peragraph{
+    color: grey;
+    padding-bottom: 5%;
+    font-size: 25px;
+
+}
+.female{
+    width: 658.26px ;
+    height:747.23px;
+
+}
+#me{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin: 0%;
+    background-color: rgb(223, 223, 213);
+
+}
+.about-me{
+    width: 100%;
+    padding: 8px 0 3px 5px;
+    
+
+
+}
+.contact-me{
+
+    padding: 20px 40px;
+    border-radius: 40px;
+    background-image: linear-gradient(to right, orange,rgb(187, 64, 64));
+    text-decoration: none;
+    color: white;
+    
+}
+.about-me p{
+    padding-bottom: 30px;
+    
+}
+.about-me-part{
+    width: 100%;
+    padding: 8px 0 3px 5px;
+}
+.about-me-part img{
+    width: 50%;
+    padding-left: 30%;
+}
+.about-me-part p{
+    padding-bottom: 80px;
+
+}
+.about{
+    padding-top: 60px;
+    color: rgb(100, 98, 96);
+    font-size: 235%;
+}
+
+.My-recipies{
+    text-align: center;
+    color: rgb(92, 90, 89);
+    padding-top: 30px;
+}
+.My-recipies-p{
+    text-align: center;
+    color: rgb(65, 65, 65);
+    margin: 0 auto;
+    text-decoration: none;
+   
+}
+.recipies-div{
+    display: flex;
+    padding: 10px 80px 10px 80px;
+}
+.part-1{
+    width: 50%;
+    padding: 10px 20px;
+    border-radius: 30px;
+    padding-bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 20px;
+    
+}
+.part-1 img{
+    width: 100%;
+    padding: 10px;
+    border-radius: 30px;
+
+}
+.part-1 p{
+    padding: 10px;
+
+}
+.part-1 h2{
+    padding-left: 10px;
+}
+.activity{
+    text-align: center;
+    padding: 50px;
+}
+.activity-div{
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    margin:0 auto;
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+  
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.activity-part{
+    margin: 40px;
+    padding: 10px 40px;
+}
+.activity-part h1{
+    text-align: center;
+    font-weight: bold;
+}
+.footer-part{
+    text-align: center;
+    height: 300px;
+    background-color: black;
+    padding-top: 40px;
+}
+
+.color-part{
+    color: coral;
+}
+.footer-part{
+    color: cornsilk;
+}
+
